@@ -1,2 +1,2 @@
-VNPW
-====
+<center><a href="http://vnpw.com.vn"><b>CỔNG THÔNG TIN CÔNG NGHỆ SỐ VIỆT NAM VNPW</b></a><br/>
+<a href="http://vnpw.com.vn/category/news">Tin Tức Công Nghệ</a>  |  <a href="http://vnpw.com.vn/category/education">Giáo Dục</a>  |  <a href="http://vnpw.com.vn/category/computers-2">Máy Tính</a>  |  <a href="http://vnpw.com.vn/category/mobile">Điện Thoại</a>  |  <a href="http://vnpw.com.vn/category/device">Thiết Bị Số</a>  |  <a href="http://vnpw.com.vn/category/tips">Thủ Thuật</a>  |  <a href="http://vnpw.com.vn/category/game">Game</a></center>
